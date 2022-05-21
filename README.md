@@ -1,3 +1,3 @@
 # springboot-video-streaming
-Source: https://www.section.io/engineering-education/building-a-video-streaming-app-with-spring/
+
 
